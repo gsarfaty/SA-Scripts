@@ -9,8 +9,8 @@ memory.limit(size=500000)
 #GLOBALS
 msds<-here("MSD")
 genies<-here("Genie")
-user<-"gsarfaty@usaid.gov"
-folder_id<-"1YOHZTigeOFv0mUc4N0tXXX4_1STuG7a1"
+user<-
+folder_id<-
 folder_save<-(genies)
 
 
